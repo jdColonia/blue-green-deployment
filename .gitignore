@@ -31,3 +31,11 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### VMs ###
+BlueGreen-Key.pem
+server-ip.txt
+jenkins-ip.txt
+sonarqube-ip.txt
+nexus-ip.txt
+monitoring-ip.txt
